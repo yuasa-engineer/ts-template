@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuasa-engineer/ts-template.git"
+  },
+  "keywords": [
+    "ts-template"
+  ],
+  "author": "joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuasa-engineer/ts-template/issues"
+  },
+  "homepage": "https://github.com/yuasa-engineer/ts-template#readme"
+}
